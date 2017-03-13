@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Xen's Iconic Guns</name>
+	<author>Xen - Skullywag</author>
+	<targetVersion>0.16.1373</targetVersion>
+	<description>Adds two distinct iconic guns, using Skullywags Gauss assembly for added stun proc chance on hits.</description>
+</ModMetaData>
